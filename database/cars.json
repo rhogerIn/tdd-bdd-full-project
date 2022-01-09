@@ -1,0 +1,23 @@
+[
+    {
+        "id": "4090c0e7-8098-4e8d-bd33-80f8a64b2364",
+        "name": "Charger",
+        "releaseYear": 2021,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "bb3653e6-87ce-4dd4-bfab-6ad13ee329d7",
+        "name": "Accord",
+        "releaseYear": 2021,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "7afb2dc8-bcd6-4be0-9d04-54d72be504fc",
+        "name": "911",
+        "releaseYear": 2021,
+        "available": true,
+        "gasAvailable": true
+    }
+]
